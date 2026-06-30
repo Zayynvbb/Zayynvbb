@@ -57,7 +57,7 @@ const zainab = {
 ### 🏆 LeetCode Grind
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/XgS1062VVy?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcode.com/u/XgS1062VVy/?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
