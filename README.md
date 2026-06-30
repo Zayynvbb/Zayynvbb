@@ -56,9 +56,7 @@ const zainab = {
 
 ### 🏆 LeetCode Grind
 
-<p align="center">
-  <img src="https://leetcode.com/u/XgS1062VVy/?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
-</p>
+<p> WILL BE REVEALED SOON ;) </p>
 
 ---
 
