@@ -4,15 +4,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+whoami;Zainab+Ali+%E2%80%94+Software+Engineer+in+the+making;%3E+status;Compiling+ambition+into+production+code..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=%3E+who+am+i;Zainab+Ali+%E2%80%94+Software+Engineer;%3E+status;Compiling+ambition+into+code..." alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/zainab-ali-b043a2316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5D4&labelColor=0F0F1A" /></a>
 <a href="mailto:ali745zainab745@gmail.com"><img src="https://img.shields.io/badge/Email-0F0F1A?style=for-the-badge&logo=gmail&logoColor=00F5D4&labelColor=0F0F1A" /></a>
 <a href="https://github.com/zayynvbb"><img src="https://img.shields.io/badge/GitHub-0F0F1A?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0F0F1A" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0F0F1A?style=for-the-badge&logo=vercel&logoColor=00F5D4&labelColor=0F0F1A" /></a>
-<!-- Replace # with your portfolio link once live -->
 
 <br/>
 
@@ -20,10 +18,6 @@
 <img src="https://komarev.com/ghpvc/?username=zayynvbb&label=PROFILE+VIEWS&color=00f5d4&style=flat-square" />
 
 </div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <br/>
 
@@ -49,7 +43,6 @@
 </table>
 </div>
 
-<br/>
 
 ## `02` Digital Identity
 
@@ -71,10 +64,10 @@ const zainab = {
     "System Design fundamentals",
   ],
 
-  currentFocus: ["DSA", "Competitive Programming", "Backend Dev", "AI/ML"],
+  // currentFocus: ["DSA", "Competitive Programming", "Backend Dev", "AI/ML"],
 
-  mission: "Ship products that outlast the hype cycle",
-  dream: "Become an exceptional software engineer",
+  // mission: "Ship products that outlast the hype cycle",
+  // dream: "Become an exceptional software engineer",
 
   coffeeLevel: Infinity,
   bugsKilled: "∞ and counting",
@@ -84,9 +77,9 @@ const zainab = {
   version: "2.0.0-beta",
 };
 
-console.log(zainab.mission);
-// > "Ship products that outlast the hype cycle"
-```
+// console.log(zainab.mission);
+// // > "Ship products that outlast the hype cycle"
+// ```
 
 </div>
 
@@ -112,8 +105,8 @@ zainab@dev-machine:~$ location --show
 zainab@dev-machine:~$ stack --active
 > MERN (MongoDB · Express · React · Node.js)
 
-zainab@dev-machine:~$ learning --now
-> Machine Learning, System Design
+// zainab@dev-machine:~$ learning --now
+// > Machine Learning, System Design
 
 zainab@dev-machine:~$ dream --print
 > Software Engineer. No shortcuts.
@@ -129,11 +122,7 @@ zainab@dev-machine:~$ _
 </table>
 </div>
 
-<br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<br/>
 
 ## `04` Tech Arsenal
 
@@ -145,15 +134,17 @@ zainab@dev-machine:~$ _
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
 
+<!-- vite,redux, -->
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+//,postgres,redis
 
 **AI / Data Science**
 
@@ -163,11 +154,10 @@ zainab@dev-machine:~$ _
 
 **Tools & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
+<!-- postman,figma,aws,docker -->
 **Operating Systems**
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" />
 
 </div>
 
@@ -204,14 +194,8 @@ zainab@dev-machine:~$ _
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zayynvbb&show_icons=true&theme=react&hide_border=true&bg_color=0F0F1A&title_color=00F5D4&icon_color=00F5D4&text_color=E0E0E0" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zayynvbb&theme=react&hide_border=true&background=0F0F1A&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayynvbb&layout=compact&theme=react&hide_border=true&bg_color=0F0F1A&title_color=00F5D4&text_color=E0E0E0" />
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zayynvbb&theme=react-dark&hide_border=true&bg_color=0F0F1A&color=00F5D4&line=00F5D4&point=E0E0E0" width="95%" />
 
@@ -220,19 +204,6 @@ zainab@dev-machine:~$ _
 <img src="https://raw.githubusercontent.com/zayynvbb/zayynvbb/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 </div>
-
-<br/>
-
-<details>
-<summary><b>▸ Expand: GitHub Trophy Case</b></summary>
-
-<br/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zayynvbb&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</div>
-
-</details>
 
 <br/>
 
@@ -257,11 +228,11 @@ zainab@dev-machine:~$ _
 
 **🔺 MERN Project**
 <br/>
-<sub>Placeholder — replace with your full-stack build</sub>
+<sub>Airbnb-finding home</sub>
 
 <img src="https://img.shields.io/badge/status-in_development-00F5D4?style=flat-square&labelColor=0F0F1A" />
 
-[`repo →`](https://github.com/zayynvbb) <!-- replace with project link -->
+[`repo →`](https://https://github.com/Zayynvbb/Airbnb-) <!-- replace with project link -->
 
 </td>
 </tr>
@@ -308,40 +279,8 @@ zainab@dev-machine:~$ _
 
 <br/>
 
-## `08` Neural Network Status — Competitive Programming
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00F5D4&labelColor=0F0F1A" />
-<!-- Optional: swap for a live stats card, e.g. streak-stats.vercel.app or leetcode-stats-card generators -->
-<img src="https://img.shields.io/badge/Codeforces-1A1A2E?style=for-the-badge&logo=codeforces&logoColor=00F5D4&labelColor=0F0F1A" />
-
-<br/><br/>
-
-<table>
-<tr>
-<th>Track</th>
-<th>Status</th>
-</tr>
-<tr>
-<td>Daily Challenges</td>
-<td>🟢 Active streak</td>
-</tr>
-<tr>
-<td>Contest Rating</td>
-<td>📈 Climbing</td>
-</tr>
-<tr>
-<td>Focus Areas</td>
-<td>Strings · Backtracking · Trees · DP</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## `09` Roadmap.log
+## `08` Roadmap.log
 
 <div align="center">
 
@@ -376,13 +315,7 @@ zainab@dev-machine:~$ _
 
 </div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<br/>
-
-## `10` Signal — Random Dev Wisdom
+## `09` Signal — Random Dev Wisdom
 
 <div align="center">
 
@@ -390,36 +323,6 @@ zainab@dev-machine:~$ _
 
 </div>
 
-<br/>
-
-## `11` Extended Network
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=00F5D4&labelColor=0F0F1A" /> <!-- placeholder, add invite link -->
-<img src="https://img.shields.io/badge/Holopin-1A1A2E?style=for-the-badge&logo=data:image/png;base64,&logoColor=00F5D4&labelColor=0F0F1A" /> <!-- placeholder for holopin badge board -->
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=00F5D4&labelColor=0F0F1A" /> <!-- placeholder, connect via spotify-github-profile -->
-<img src="https://img.shields.io/badge/Blog-1A1A2E?style=for-the-badge&logo=hashnode&logoColor=00F5D4&labelColor=0F0F1A" /> <!-- placeholder -->
-
-<br/><br/>
-
-<!-- Optional: sponsor / support section
-<a href="https://buymeacoffee.com/zayynvbb"><img src="https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000&labelColor=0F0F1A" /></a>
--->
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<div align="center">
-
-### `EOF`
-
-<sub>Every great developer starts with a single commit.</sub>
-
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=666666&center=true&vCenter=true&width=600&lines=Code.+Learn.+Repeat.;Building+the+future%2C+one+commit+at+a+time." />
 
@@ -428,17 +331,3 @@ zainab@dev-machine:~$ _
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213E,50:1A1A2E,100:0F0F1A&height=120&section=footer" width="100%"/>
 
 </div>
-
-<!--
-  SETUP NOTES (delete this block once configured):
-  1. Replace "zayynvbb" everywhere if your GitHub username changes.
-  2. Contribution snake animation requires adding a GitHub Action to this repo:
-     https://github.com/Platane/snk — it generates the SVG referenced above at
-     the `output` branch. Without the Action, that image will 404.
-  3. LeetCode/Codeforces badges are placeholders — swap in a live stats card
-     if you want real-time numbers (search "leetcode stats card github readme").
-  4. Spotify section requires https://github.com/kittinan/spotify-github-profile
-     if you want it live instead of a static badge.
-  5. Holopin badge board requires an account at holopin.io.
-  6. Update the portfolio, blog, and Discord links once those exist.
--->
