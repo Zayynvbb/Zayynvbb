@@ -43,7 +43,6 @@
 </table>
 </div>
 
-
 ## `02` Digital Identity
 
 <div align="center">
@@ -121,6 +120,8 @@ zainab@dev-machine:~$ _
 </tr>
 </table>
 </div>
+
+
 
 
 
