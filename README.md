@@ -76,9 +76,7 @@ const zainab = {
   version: "2.0.0-beta",
 };
 
-// console.log(zainab.mission);
-// // > "Ship products that outlast the hype cycle"
-// ```
+ ```
 
 </div>
 
