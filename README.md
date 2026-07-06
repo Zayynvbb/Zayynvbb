@@ -135,7 +135,7 @@ zainab@dev-machine:~$ _
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
 
-<!-- vite,redux, -->
+
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
@@ -143,7 +143,7 @@ zainab@dev-machine:~$ _
 **Database**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-//,postgres,redis
+
 
 **AI / Data Science**
 
